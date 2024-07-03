@@ -1,2 +1,3 @@
-# elastic-query-automation
-This repository holds scripts that I created responsible for meeting customer metrics and pulling vast amounts data within a short period of time. of log data
+# Elastic Query Automation
+
+This holds scripts that I created for customer use-cases and data capture for presentation or comparison.
